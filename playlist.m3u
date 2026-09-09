@@ -57,7 +57,7 @@ http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:-1 group-title="USA",FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
-#EXTINF:-1 group-title="USA",FX HD
+#EXTINF:-1 group-title="USA",FX
 http://tvsen7.aynascope.net/fx/index.m3u8
 
 #EXTINF:-1 group-title="USA",FXM HD
