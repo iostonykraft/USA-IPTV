@@ -84,6 +84,12 @@ http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 #EXTINF:-1 group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
+#EXTINF:-1 group-title="USA",MASN
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97420
+
+#EXTINF:-1 group-title="USA",MASN2
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/97421
+
 #EXTINF:-1 group-title="USA",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
