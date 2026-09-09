@@ -148,7 +148,7 @@ http://23.237.104.106:8080/USA_TNT/index.m3u8
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
 #EXTINF:-1 group-title="USA",USA Network
-http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102222
 
 #EXTINF:-1 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
