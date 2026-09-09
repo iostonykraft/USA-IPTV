@@ -12,6 +12,9 @@ http://23.237.104.106:8080/USA_AMC/index.m3u8
 #EXTINF:-1 group-title="USA",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
+#EXTINF:-1 group-title="USA",Boomerange
+https://gpuserver3.tier1streams.com/BOOMERANG/index.m3u8
+
 #EXTINF:-1 group-title="USA",Cartoon Network / Adult Swim
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
