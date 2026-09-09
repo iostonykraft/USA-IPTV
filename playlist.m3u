@@ -61,7 +61,7 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 http://4.30.180.36:8420/fx/index.m3u8?token=test
 
 #EXTINF:-1 group-title="USA",FXM HD
-https://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121817.m3u8
+https://messi.damitv.st/papi/ts2/fxm-usa.m3u8
 
 #EXTINF:-1 group-title="USA",Game Show Network
 http://23.237.104.106:8080/USA_GSN/index.m3u8
